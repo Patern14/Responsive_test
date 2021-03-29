@@ -1,2 +1,2 @@
 # Responsive_test
-Memo for unit sizes / screen size.
+Visual memo for unit sizes / screen size.
