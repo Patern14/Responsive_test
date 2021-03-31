@@ -92,6 +92,9 @@ header {
 #h100pc {
     font-size: 100%;
 }
+#h10mm {
+    font-size: 10mm;
+}
 
 /* div ///////////////////////////// */
 div {
@@ -117,6 +120,9 @@ div {
 }
 #d200px {
     width: 200px;
+}
+#d30mm {
+    width: 30mm;
 }
 
 /* Footer /////////////////////////// */
